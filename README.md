@@ -17,12 +17,7 @@ The CapStone project is one of the projects within the Udacity Data Scientist Na
 
 ## Data <a name="data"></a>
 
-The WELFake dataset includes around 72k articels reviews from 185 countries all around the world. The focus of the survey is to understand significant aspects of jobs in software development.</br>
-The data of survey contains of the following two CSV files:
-<ul>
-  <li>schema of the survey data, containing information about the more than 100 columns (i.e., questions) used within the survey
-  <li>survey results, containing thousands of individual answers to the survey questions 
-</ul>
+The WELFake dataset contains of 72k news articles with 35k real and 37k fake news. For a larger data base and to avoid overfitting of the models, four popular news datasets were merged. The focus is on developing algorithms to distinguish between real and fake news. The dataset contains four columns: serial number (starting from 0); title (news heading); text (news content); and label (0 = real and 1 = fake).</br>
 
 Further information about the original dataset can be found [here](https://zenodo.org/records/4561253)
 
