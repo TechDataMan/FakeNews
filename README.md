@@ -17,7 +17,7 @@ The CapStone project is one of the projects within the Udacity Data Scientist Na
 
 ## Data <a name="data"></a>
 
-The 2024 Stack Overflow survey includes around 65k reviews from 185 countries all around the world. The focus of the survey is to understand significant aspects of jobs in software development.</br>
+The WELFake dataset includes around 72k articels reviews from 185 countries all around the world. The focus of the survey is to understand significant aspects of jobs in software development.</br>
 The data of survey contains of the following two CSV files:
 <ul>
   <li>schema of the survey data, containing information about the more than 100 columns (i.e., questions) used within the survey
@@ -40,10 +40,12 @@ I created a Jupyter notebook (Python) for the data analysis. For this I used the
 
 Here are the additional Python libraries used within this project:
 <ul>
-  <li>Numpy</li>
-  <li>Pandas</li>
-  <li>Matplotlib.PyPlot</li>
-  <li>scikit-learn</li>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>matplotlib.PyPlot</li>
+  <li>seaborn</li>
+  <li>sklearn</li>
+  <li>nltk</li>
 </ul>
 
 You will need to download the WELFake dataset and put it in your folder. [Here](https://zenodo.org/records/4561253) you can find the data. </br>
