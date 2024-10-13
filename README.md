@@ -17,7 +17,7 @@ The CapStone project is one of the projects within the Udacity Data Scientist Na
 
 ## Data <a name="data"></a>
 
-The WELFake dataset contains of 72k news articles with 35k real and 37k fake news. For a larger data base and to avoid overfitting of the models, four popular news datasets were merged. The focus is on developing algorithms to distinguish between real and fake news. The dataset contains four columns: serial number (starting from 0); title (news heading); text (news content); and label (0 = real and 1 = fake).</br>
+The WELFake dataset contains of 72k news articles with 35k real and 37k fake news. For a larger data base and to avoid overfitting of the models, four popular news datasets (i.e. Kaggle, McIntire, Reuters, BuzzFeed Political) were merged. The focus is on developing algorithms to distinguish between real and fake news. The dataset contains four columns: serial number (starting from 0); title (news heading); text (news content); and label (0 = real and 1 = fake).</br>
 
 Further information about the original dataset can be found [here](https://zenodo.org/records/4561253)
 
