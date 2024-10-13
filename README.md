@@ -13,7 +13,7 @@ This project is part of my Udacity´s Data Scientist Nanodegree Program.
 
 ## Project Motivation <a name="motivation"></a>
 
-The CapStone project is one of the projects within the Udacity Data Scientist Nanodegree Program. The WELFake dataset was chosen as the data basis.
+The CapStone project is one of the projects within the Udacity Data Scientist Nanodegree Program. In an era where information spreads rapidly, the ability to distinguish between fact and fiction is crucial for an informed society. The project "Fake News Detection" aims to develop tools that help users separate credible content from misleading information, thereby promoting responsible engagement with information. The WELFake dataset was chosen as the data basis.
 
 ## Data <a name="data"></a>
 
